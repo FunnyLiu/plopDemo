@@ -1,0 +1,24 @@
+{
+  "name": "plopDemo",
+  "version": "1.0.0",
+  "description": "plopDemo",
+  "main": "index.js",
+  "scripts": {
+    "new": "plop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunnyLiu/plopDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FunnyLiu/plopDemo/issues"
+  },
+  "homepage": "https://github.com/FunnyLiu/plopDemo#readme",
+  "devDependencies": {
+    "plop": "^2.6.0"
+  }
+}
